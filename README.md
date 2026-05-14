@@ -18,7 +18,7 @@ I'm now learning frontend development on my own and applying for a developer app
 
 🔍 **[DNS Lookup Tool](https://github.com/Clevert3ch/dns-lookup-tool)** — Single-domain DNS record lookup against Google's DNS-over-HTTPS API. React + plain CSS. [Live demo](https://dns-lookup-tool-gules.vercel.app/)
 
-Both projects come directly from my operations background — tools I wish I'd had when debugging customer DNS issues.
+Both projects come directly from my operations background.
 
 ## A bit of context
 
