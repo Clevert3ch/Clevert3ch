@@ -27,4 +27,4 @@ Trilingual on the daily: Norwegian, English, Spanish (all fluent), plus intermed
 ## Get in touch
 
 📧 clever.britez@hotmail.no
-💼 [LinkedIn](https://www.linkedin.com/in/clever-britez/)
+💼 [LinkedIn](www.linkedin.com/in/clever-britez)
