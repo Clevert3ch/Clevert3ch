@@ -1,20 +1,19 @@
 # Hi, I'm Clever 👋
 
-Former mountain blaster turned sysadmin turned aspiring developer, based in Stjørdal near Trondheim.
+Sysadmin turned developer, based in Stjørdal near Trondheim.
 
-Before IT, I worked in the Norwegian mountains with explosives and drilling. In 2019 I traded the rock for keyboards and joined Webhuset as a support agent, moved into sysadmin work in 2021, and stayed through the GoDaddy acquisition. Five years of DNS, mail servers, Linux and Windows hosts, server migrations, backup recovery, and a lot of late-night WordPress debugging. When operations moved to Spain, I stayed in Norway and started shifting toward development.
-
-I'm now learning frontend development on my own and applying for a developer apprenticeship. The goal is full-stack — starting with frontend, then moving back into backend where my operations background already gives me a head start.
+I spent five years in IT operations at Webhuset and GoDaddy — handling DNS, mail systems, Linux/Windows hosts, server migrations, backup recovery, and a steady stream of production incidents. Before that I worked in the Norwegian mountains with explosives and drilling. I traded the rock for keyboards in 2019, and I'm now moving into development full-time.
+My operations background means I already think about edge cases, race conditions, and what breaks in production. The goal is full-stack — frontend first, then leveraging the systems experience I already have on the backend side.
 
 ## What I'm working with
 
-**Comfortable:** Linux/Windows administration, DNS, networking, Office 365, server migrations, debugging in production
-**Currently learning:** React, TypeScript, modern frontend tooling (Vite, Tailwind)
-**Want to learn next:** .NET, Node.js, Kubernetes from a developer's perspective rather than an operator's
+**Comfortable:** React, JavaScript, REST APIs, Git/GitHub, Tailwind CSS, Vite, Linux/Windows administration, DNS, MySQL, networking, debugging in production
+**Currently learning:** React, TypeScript, modern frontend tooling (Vite, Tailwind).
+**Want to learn next:** .NET, Node.js,  Elixir/Phoenix, Kubernetes from a developer's perspective rather than an operator's
 
 ## Featured projects
 
-🛰️ **[DNS Fleet Monitor](https://github.com/Clevert3ch/dns-fleet-monitor)** — A real-time DNS health dashboard for monitoring multiple domains. React + Tailwind, deployed on Vercel. [Live demo](https://dns-fleet-monitor.vercel.app/)
+🛰️ **[DNS Fleet Monitor](https://github.com/Clevert3ch/dns-fleet-monitor)** — Real-time DNS health dashboard monitoring A, MX, SPF, and DNSSEC records across multiple domains in parallel. React 19 + Tailwind v4, custom hooks, defensive async state handling, localStorage persistence. [Live demo](https://dns-fleet-monitor.vercel.app/)
 
 🔍 **[DNS Lookup Tool](https://github.com/Clevert3ch/dns-lookup-tool)** — Single-domain DNS record lookup against Google's DNS-over-HTTPS API. React + plain CSS. [Live demo](https://dns-lookup-tool-gules.vercel.app/)
 
@@ -22,7 +21,7 @@ Both projects come directly from my operations background.
 
 ## A bit of context
 
-Trilingual on the daily: Norwegian, English, Spanish (all fluent), plus intermediate Guaraní. When I'm not at the keyboard I'm usually out in the mountains with my two bird dogs, or in the garage wrenching on motorbikes and cars.
+Trilingual on the daily — Norwegian, English, Spanish — plus intermediate Guaraní. When I'm not at the keyboard I'm usually out in the mountains with my two bird dogs, or in the garage wrenching on motorbikes and cars.
 
 ## Get in touch
 
