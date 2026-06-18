@@ -13,6 +13,8 @@ My operations background means I already think about edge cases, race conditions
 
 ## Featured projects
 
+💼 **[Habitvault](https://github.com/Clevert3ch/habitvault)** — A full-stack personal productivity app combining habit tracking and note-taking, built from scratch as a deep-dive into full-stack TypeScript development.
+
 🛰️ **[DNS Fleet Monitor](https://github.com/Clevert3ch/dns-fleet-monitor)** — Real-time DNS health dashboard monitoring A, MX, SPF, and DNSSEC records across multiple domains in parallel. React 19 + Tailwind v4, custom hooks, defensive async state handling, localStorage persistence. [Live demo](https://dns-fleet-monitor.vercel.app/)
 
 🔍 **[DNS Lookup Tool](https://github.com/Clevert3ch/dns-lookup-tool)** — Single-domain DNS record lookup against Google's DNS-over-HTTPS API. React + plain CSS. [Live demo](https://dns-lookup-tool-gules.vercel.app/)
