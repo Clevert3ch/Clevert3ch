@@ -19,7 +19,6 @@ My operations background means I already think about edge cases, race conditions
 
 🔍 **[DNS Lookup Tool](https://github.com/Clevert3ch/dns-lookup-tool)** — Single-domain DNS record lookup against Google's DNS-over-HTTPS API. React + plain CSS. [Live demo](https://dns-lookup-tool-gules.vercel.app/)
 
-Both projects come directly from my operations background.
 
 ## A bit of context
 
