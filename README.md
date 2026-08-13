@@ -4,7 +4,10 @@ Sysadmin & DevOps engineer, based in Stjørdal near Trondheim.
 
 I spent six years in IT operations — technical support at Atender, then sysadmin/IT ops at Webhuset and GoDaddy — handling DNS, mail systems, Linux/Windows server administration, CloudLinux, IIS, XenServer, and production incident response, including pod-level collaboration with GoDaddy's SRE team. Before IT, I worked in the Norwegian mountains with explosives and drilling. I traded the rock for servers in 2019.
 
-I'm now going deeper into DevOps: building out a homelab (Docker, k3s, Ansible), studying toward an IT-utvikler fagbrev, and working through a structured DevOps curriculum. My background means I already think in terms of uptime, failure modes, and what breaks at 3am — now I'm layering GitOps, containers, and automation on top of that.
+I'm now going deeper into DevOps: building out a homelab (Docker, k3s, Ansible) 
+and working through a structured DevOps curriculum. My background means I 
+already think in terms of uptime, failure modes, and what breaks at 3am — 
+now I'm layering GitOps, containers, and automation on top of that.
 
 ## What I'm working with
 **Comfortable:** Linux/Windows administration, DNS, networking, Git/GitHub, Docker, Bash scripting, MySQL, debugging production systems
