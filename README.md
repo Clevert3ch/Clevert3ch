@@ -16,8 +16,11 @@ now I'm layering GitOps, containers, and automation on top of that.
 
 ## Featured projects
 🖥️ **[cleverserver](#)** — Personal homelab running Ubuntu Server 24.04, Docker, and k3s. Full hardening pass (SSH key auth, ufw, systemd services), used as a hands-on testbed for DevOps concepts.
+
 💼 **[HabitVault](https://github.com/Clevert3ch/habitvault)** — Full-stack app (React/TypeScript frontend, Node.js/Express/Prisma/PostgreSQL backend) — built to understand the full stack from the ops side up.
+
 🛰️ **[DNS Fleet Monitor](https://github.com/Clevert3ch/dns-fleet-monitor)** — Real-time DNS health dashboard monitoring A, MX, SPF, and DNSSEC records across multiple domains in parallel. [Live demo](https://dns-fleet-monitor.vercel.app/)
+
 🔍 **[DNS Lookup Tool](https://github.com/Clevert3ch/dns-lookup-tool)** — Single-domain DNS record lookup against Google's DNS-over-HTTPS API. [Live demo](https://dns-lookup-tool-gules.vercel.app/)
 
 ## A bit of context
